@@ -260,7 +260,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro .btn-get-started:hover {
   background: #fff;
-  color: #18d26e;
+  color: blue;
+  /*#18d26e;*/
 }
 
 /*--------------------------------------------------------------
